@@ -7,7 +7,9 @@
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4"
+    "react-motion": "^0.5.2",
+    "react-scripts": "2.0.4",
+    "react-typist": "^2.0.4"
   },
   "scripts": {
     "predeploy": "npm run build",
